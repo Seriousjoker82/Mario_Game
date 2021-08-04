@@ -1,0 +1,48 @@
+.heading{
+    width: 100%;
+    margin: 0;
+  
+}
+.mario{
+    
+    background-size: cover;
+    width: 100%;
+}
+.play{
+    width: 200px;
+    border-radius: 15px;
+}
+.status_h4{
+    width: 200px;
+    border-radius: 15px;
+}
+h4{
+    margin:0px;
+    line-height: 2;
+    background-color: rgb(91, 192, 222);
+    color: white;
+}
+
+.i_image{
+    display:inline-block;
+    width:45%
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_div img
+{
+    margin:20px;
+    width: 80%;
+    border-radius: 40px;
+
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+video{
+    background:url("game_console.png");
+    padding:25px;
+    background-size: cover;
+    background-position: center;
+}
